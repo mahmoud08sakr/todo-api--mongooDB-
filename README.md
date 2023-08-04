@@ -1,6 +1,6 @@
 # Todo API with MongoDB, JWT, and Bcrypt
 
-![Todo API]([todo-api.png]
+![Todo API](https://imgs.search.brave.com/Aq2AFiZRDsIRBW-pgeWmNGysRvpqE7Qi8f00Z1N3Yuo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMTJ5/N3NnMGlhbTRsYy5j/bG91ZGZyb250Lm5l/dC9zL2ltZy9tYXJr/ZXRpbmcvdG9wLXRv/ZG8tYXBwL01pY3Jv/c29mdC1Uby1kby5q/cGc)
 
 This is a simple Todo API that uses MongoDB as the database, JWT for authentication, and Bcrypt for password hashing. The API allows users to manage their todos securely by protecting data with JWT and Bcrypt, and sensitive configurations are stored in a `.env` file.
 
